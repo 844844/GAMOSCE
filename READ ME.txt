@@ -1,0 +1,15 @@
+GAMOSCE V11.0
+(Brucella Genus, Abortus, Melitensis, Ovis, Suis, Canis genome-based identification with E-probe)
+
+This version is for Windows users, one-click identification of Brucella genus and 5 significant Brucella species. Users do not need to write code.
+
+GAMOSCE is a tool based python that employs a combination of * in silico * the 126 specific tags of Brucella to rapidly identify *Brucella genus and 5 significant Brucella species * isolates using nucleotide sequencing data.
+
+Decompress agile.zip, Open agile_start Shortcut, click Select File to open the sequencing file or click Select Folder to load sequence of whole folder.The common nucleic acid sequences can be loaded
+
+Note that office files in .doc, .xls, .ppt and other formats cannot be loaded.
+
+After entering the sequencing results, clicking open means start identification.
+1. The software uses the specific e-probe for accurate identification of Brucella genus, include 11 species: Brucella melitensis, Brucella abortus, Brucella suis, Brucella ovis, Brucella neotomae, Brucella canis, Brucella ceti, Brucella pinnipedialis, Brucella microti, Brucella inopinata, Brucella vulpis. 
+2. Then, the software distinguishes several kinds of Brucella species that are clearly threatening human health from Brucella genus, including Brucella abortus, Brucella melitensis, Brucella suis, Brucella canis and Brucella ovis. 
+3. The Tag126 are all Brucella-specific probes. As long as one probe is detected in the target sequence, the detection result is positive.
